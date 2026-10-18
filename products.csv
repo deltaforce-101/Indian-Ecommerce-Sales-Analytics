@@ -1,0 +1,199 @@
+﻿Product_ID,Product_Name,Category,Price_INR,Cost_INR
+PROD0001,Wireless Earbuds 1,Electronics,13153.41,9210.5
+PROD0002,Power Bank 2,Electronics,8694.54,5258.76
+PROD0003,Wireless Earbuds 3,Electronics,17240.08,10556.75
+PROD0004,Keyboard 4,Electronics,7594.32,5336.81
+PROD0005,Smartwatch 5,Electronics,14984.54,10682.98
+PROD0006,Mouse 6,Electronics,9434.05,5527.15
+PROD0007,Mouse 7,Electronics,11011.09,5863.03
+PROD0008,Laptop Stand 8,Electronics,20735.41,10840.38
+PROD0009,Smartphone 9,Electronics,10641.65,5630.02
+PROD0010,Webcam 10,Electronics,20217.24,13665.47
+PROD0011,Smartwatch 11,Electronics,16263.16,10173.28
+PROD0012,Smartwatch 12,Electronics,10409.66,7616.22
+PROD0013,Power Bank 13,Electronics,3544.11,1723.92
+PROD0014,Keyboard 14,Electronics,15499.58,8366.74
+PROD0015,Webcam 15,Electronics,12375.1,6878.23
+PROD0016,Power Bank 16,Electronics,1382.36,866.1
+PROD0017,Power Bank 17,Electronics,24311.47,13203.51
+PROD0018,Power Bank 18,Electronics,17921.62,12364.94
+PROD0019,Bluetooth Speaker 19,Electronics,2390.4,1087.3
+PROD0020,Bluetooth Speaker 20,Electronics,8645.53,4779.42
+PROD0021,Keyboard 21,Electronics,24948.39,15044.28
+PROD0022,Wireless Earbuds 22,Electronics,8355.68,6086.03
+PROD0023,Power Bank 23,Electronics,1541.55,1088.28
+PROD0024,Smartphone 24,Electronics,13647.32,6959.17
+PROD0025,Smartwatch 25,Electronics,20457.68,14797.51
+PROD0026,Smartphone 26,Electronics,24367.77,16712.52
+PROD0027,Laptop Stand 27,Electronics,19313.95,11514.53
+PROD0028,Wireless Earbuds 28,Electronics,5098.62,3531.59
+PROD0029,Smartphone 29,Electronics,13099.31,10140.15
+PROD0030,Keyboard 30,Electronics,9818.71,7532.92
+PROD0031,USB-C Cable 31,Electronics,4090.49,2823.74
+PROD0032,Mouse 32,Electronics,13094.02,6986.88
+PROD0033,Smartwatch 33,Electronics,5087.28,3779.25
+PROD0034,Kurta 1,Fashion,24334.86,12845.61
+PROD0035,Jacket 2,Fashion,8213.16,4149.53
+PROD0036,Dress 3,Fashion,14678.72,8522.71
+PROD0037,Kurta 4,Fashion,370.91,172.05
+PROD0038,Sunglasses 5,Fashion,17255.9,8647.75
+PROD0039,Jeans 6,Fashion,6329.75,3892.63
+PROD0040,Sports Shoes 7,Fashion,8558.79,6590.14
+PROD0041,T-Shirt 8,Fashion,1634.41,1083.14
+PROD0042,Wallet 9,Fashion,19816.94,9740.48
+PROD0043,Kurta 10,Fashion,8019.98,5086.72
+PROD0044,Backpack 11,Fashion,20166.31,11994.46
+PROD0045,Kurta 12,Fashion,679.62,390.55
+PROD0046,Sneakers 13,Fashion,6378.8,2953.58
+PROD0047,Sunglasses 14,Fashion,14040.77,8833.08
+PROD0048,Sunglasses 15,Fashion,4864.93,2488.83
+PROD0049,Backpack 16,Fashion,8192.47,4952.92
+PROD0050,Sports Shoes 17,Fashion,22873.68,14478.85
+PROD0051,Jeans 18,Fashion,13347.77,7985.93
+PROD0052,Dress 19,Fashion,13607.91,8162.65
+PROD0053,Wallet 20,Fashion,9568.23,4891.53
+PROD0054,T-Shirt 21,Fashion,15549.4,8865.41
+PROD0055,Sports Shoes 22,Fashion,6082.85,4184.58
+PROD0056,Wallet 23,Fashion,20502.39,10510.69
+PROD0057,Sunglasses 24,Fashion,19177.49,9605.3
+PROD0058,Dress 25,Fashion,8165.61,5401.54
+PROD0059,Jeans 26,Fashion,2540.97,1695.93
+PROD0060,T-Shirt 27,Fashion,20903.55,10301.8
+PROD0061,T-Shirt 28,Fashion,5170.66,3154.99
+PROD0062,Jeans 29,Fashion,939.66,621.85
+PROD0063,Jacket 30,Fashion,16498.34,10287.06
+PROD0064,Sports Shoes 31,Fashion,6509.07,3716.01
+PROD0065,Sports Shoes 32,Fashion,17987.45,8172.03
+PROD0066,Kurta 33,Fashion,16444.37,12438.08
+PROD0067,Water Bottle 1,Home & Kitchen,11780.27,7784.9
+PROD0068,Electric Kettle 2,Home & Kitchen,14015.79,10646.68
+PROD0069,Lunch Box 3,Home & Kitchen,20576.36,14652.47
+PROD0070,Mixer Grinder 4,Home & Kitchen,20616.53,11085.9
+PROD0071,Mixer Grinder 5,Home & Kitchen,18396.36,13344.18
+PROD0072,Water Bottle 6,Home & Kitchen,23622.4,18118.23
+PROD0073,Water Bottle 7,Home & Kitchen,2664.44,1402.12
+PROD0074,Lunch Box 8,Home & Kitchen,4857.09,3029.09
+PROD0075,Bedsheet 9,Home & Kitchen,14314.19,10917.09
+PROD0076,Pressure Cooker 10,Home & Kitchen,18766.48,11016.13
+PROD0077,Water Bottle 11,Home & Kitchen,19191.14,12287.43
+PROD0078,Table Lamp 12,Home & Kitchen,17607.38,10404.81
+PROD0079,Water Bottle 13,Home & Kitchen,4294.21,2188.03
+PROD0080,Lunch Box 14,Home & Kitchen,12690.62,8464.46
+PROD0081,Pressure Cooker 15,Home & Kitchen,24960.07,14881.04
+PROD0082,Electric Kettle 16,Home & Kitchen,22575.75,14257.19
+PROD0083,Electric Kettle 17,Home & Kitchen,21143.62,12391.71
+PROD0084,Lunch Box 18,Home & Kitchen,20678.95,11512.77
+PROD0085,Bedsheet 19,Home & Kitchen,14143.15,7362.87
+PROD0086,Pressure Cooker 20,Home & Kitchen,23163.75,12365.95
+PROD0087,Table Lamp 21,Home & Kitchen,11269.37,6547.95
+PROD0088,Mixer Grinder 22,Home & Kitchen,24575.47,15890.54
+PROD0089,Pressure Cooker 23,Home & Kitchen,3505.88,2607.7
+PROD0090,Mixer Grinder 24,Home & Kitchen,7612.3,3982.93
+PROD0091,Electric Kettle 25,Home & Kitchen,688.28,496.42
+PROD0092,Storage Box 26,Home & Kitchen,22988.94,14223.71
+PROD0093,Air Fryer 27,Home & Kitchen,23158.17,11603.54
+PROD0094,Mixer Grinder 28,Home & Kitchen,11589.19,5812.16
+PROD0095,Storage Box 29,Home & Kitchen,9271.01,5953.02
+PROD0096,Bedsheet 30,Home & Kitchen,6516.66,3578.3
+PROD0097,Air Fryer 31,Home & Kitchen,10083.99,7592.25
+PROD0098,Water Bottle 32,Home & Kitchen,18129.98,12902.35
+PROD0099,Cookware Set 33,Home & Kitchen,12282.67,9171.2
+PROD0100,Face Serum 1,Beauty & Personal Care,20513.95,9876.85
+PROD0101,Perfume 2,Beauty & Personal Care,1077.68,772.43
+PROD0102,Beard Trimmer 3,Beauty & Personal Care,2099.16,983.36
+PROD0103,Hair Dryer 4,Beauty & Personal Care,8795.07,6329.43
+PROD0104,Beard Trimmer 5,Beauty & Personal Care,23265.62,11395.0
+PROD0105,Sunscreen 6,Beauty & Personal Care,18728.81,13678.17
+PROD0106,Face Wash 7,Beauty & Personal Care,15901.09,10472.84
+PROD0107,Face Wash 8,Beauty & Personal Care,7722.87,3580.25
+PROD0108,Lip Balm 9,Beauty & Personal Care,14187.09,7914.33
+PROD0109,Sunscreen 10,Beauty & Personal Care,3955.96,2659.59
+PROD0110,Beard Trimmer 11,Beauty & Personal Care,24279.35,16957.6
+PROD0111,Face Serum 12,Beauty & Personal Care,12691.52,6641.32
+PROD0112,Perfume 13,Beauty & Personal Care,19690.25,9822.36
+PROD0113,Hair Dryer 14,Beauty & Personal Care,2200.25,1405.03
+PROD0114,Face Wash 15,Beauty & Personal Care,13770.59,7389.91
+PROD0115,Beard Trimmer 16,Beauty & Personal Care,12619.3,8901.18
+PROD0116,Shampoo 17,Beauty & Personal Care,19085.52,11617.44
+PROD0117,Sunscreen 18,Beauty & Personal Care,12272.35,8164.08
+PROD0118,Sunscreen 19,Beauty & Personal Care,14094.02,10979.75
+PROD0119,Lip Balm 20,Beauty & Personal Care,6268.21,2968.89
+PROD0120,Beard Trimmer 21,Beauty & Personal Care,8185.78,6179.98
+PROD0121,Moisturizer 22,Beauty & Personal Care,2945.37,1727.41
+PROD0122,Hair Dryer 23,Beauty & Personal Care,8804.45,4893.9
+PROD0123,Face Serum 24,Beauty & Personal Care,16435.93,11570.81
+PROD0124,Shampoo 25,Beauty & Personal Care,24692.15,16132.69
+PROD0125,Body Lotion 26,Beauty & Personal Care,15635.08,9308.39
+PROD0126,Sunscreen 27,Beauty & Personal Care,5111.18,2930.55
+PROD0127,Moisturizer 28,Beauty & Personal Care,2941.44,1376.59
+PROD0128,Face Serum 29,Beauty & Personal Care,23178.23,17075.13
+PROD0129,Perfume 30,Beauty & Personal Care,490.27,332.87
+PROD0130,Moisturizer 31,Beauty & Personal Care,7731.18,4681.17
+PROD0131,Hair Dryer 32,Beauty & Personal Care,5342.89,3352.89
+PROD0132,Sunscreen 33,Beauty & Personal Care,13727.64,9576.64
+PROD0133,Calculator 1,Books & Stationery,12152.2,8395.65
+PROD0134,Exam Guide 2,Books & Stationery,17421.52,11681.58
+PROD0135,Sketchbook 3,Books & Stationery,14636.67,9791.41
+PROD0136,Notebook Set 4,Books & Stationery,6497.09,3052.57
+PROD0137,Fiction Novel 5,Books & Stationery,19760.33,12921.84
+PROD0138,Notebook Set 6,Books & Stationery,11703.28,8916.83
+PROD0139,Ball Pen Pack 7,Books & Stationery,9806.83,5291.1
+PROD0140,Desk Organizer 8,Books & Stationery,21626.41,9868.04
+PROD0141,Sketchbook 9,Books & Stationery,5893.54,3392.51
+PROD0142,Ball Pen Pack 10,Books & Stationery,22610.22,13790.84
+PROD0143,Sticky Notes 11,Books & Stationery,13358.28,6833.0
+PROD0144,Calculator 12,Books & Stationery,24173.77,15350.99
+PROD0145,Notebook Set 13,Books & Stationery,1136.85,857.58
+PROD0146,Planner 14,Books & Stationery,8438.21,4892.66
+PROD0147,Exam Guide 15,Books & Stationery,605.55,409.24
+PROD0148,Desk Organizer 16,Books & Stationery,15685.99,8281.38
+PROD0149,Calculator 17,Books & Stationery,7004.58,3295.4
+PROD0150,Planner 18,Books & Stationery,21984.13,16352.51
+PROD0151,Notebook Set 19,Books & Stationery,23610.8,18019.96
+PROD0152,Fiction Novel 20,Books & Stationery,3918.95,2923.8
+PROD0153,Exam Guide 21,Books & Stationery,2330.71,1342.79
+PROD0154,Sticky Notes 22,Books & Stationery,21835.63,14772.95
+PROD0155,Sketchbook 23,Books & Stationery,6121.97,3063.48
+PROD0156,Planner 24,Books & Stationery,22755.92,12712.91
+PROD0157,Calculator 25,Books & Stationery,3423.54,2277.74
+PROD0158,Sticky Notes 26,Books & Stationery,13601.64,9712.04
+PROD0159,Exam Guide 27,Books & Stationery,7827.61,5343.87
+PROD0160,Calculator 28,Books & Stationery,22751.63,13467.17
+PROD0161,Exam Guide 29,Books & Stationery,16456.36,10472.8
+PROD0162,Exam Guide 30,Books & Stationery,8038.78,5095.96
+PROD0163,Ball Pen Pack 31,Books & Stationery,4724.76,3435.1
+PROD0164,Exam Guide 32,Books & Stationery,18216.93,12799.1
+PROD0165,Sketchbook 33,Books & Stationery,24034.73,13221.62
+PROD0166,Football 1,Sports & Fitness,3925.13,2009.74
+PROD0167,Resistance Bands 2,Sports & Fitness,4739.95,3325.59
+PROD0168,Fitness Tracker 3,Sports & Fitness,15480.12,10059.75
+PROD0169,Fitness Tracker 4,Sports & Fitness,5887.15,3100.29
+PROD0170,Yoga Mat 5,Sports & Fitness,9076.64,6145.67
+PROD0171,Cycling Helmet 6,Sports & Fitness,3481.05,2538.47
+PROD0172,Cycling Helmet 7,Sports & Fitness,17842.68,10231.11
+PROD0173,Gym Gloves 8,Sports & Fitness,12361.42,6123.59
+PROD0174,Cricket Bat 9,Sports & Fitness,5771.89,3375.6
+PROD0175,Yoga Mat 10,Sports & Fitness,23146.06,17673.53
+PROD0176,Cricket Bat 11,Sports & Fitness,18596.81,14433.36
+PROD0177,Cricket Bat 12,Sports & Fitness,1792.49,1355.02
+PROD0178,Cycling Helmet 13,Sports & Fitness,21697.16,13271.74
+PROD0179,Skipping Rope 14,Sports & Fitness,21688.36,16112.36
+PROD0180,Gym Gloves 15,Sports & Fitness,10209.94,4735.4
+PROD0181,Gym Gloves 16,Sports & Fitness,18045.99,10467.93
+PROD0182,Fitness Tracker 17,Sports & Fitness,14905.07,9290.72
+PROD0183,Yoga Mat 18,Sports & Fitness,13087.13,7839.6
+PROD0184,Yoga Mat 19,Sports & Fitness,21961.83,11663.67
+PROD0185,Tennis Racket 20,Sports & Fitness,9979.94,6912.17
+PROD0186,Tennis Racket 21,Sports & Fitness,9775.84,6867.55
+PROD0187,Yoga Mat 22,Sports & Fitness,4866.78,2895.99
+PROD0188,Football 23,Sports & Fitness,19374.87,10546.75
+PROD0189,Resistance Bands 24,Sports & Fitness,10647.19,6945.53
+PROD0190,Yoga Mat 25,Sports & Fitness,17294.33,12939.84
+PROD0191,Cycling Helmet 26,Sports & Fitness,20771.85,12443.59
+PROD0192,Tennis Racket 27,Sports & Fitness,2961.31,2093.59
+PROD0193,Tennis Racket 28,Sports & Fitness,3511.37,2059.33
+PROD0194,Cycling Helmet 29,Sports & Fitness,768.07,460.62
+PROD0195,Cricket Bat 30,Sports & Fitness,22080.33,10593.24
+PROD0196,Skipping Rope 31,Sports & Fitness,17338.18,12992.6
+PROD0197,Resistance Bands 32,Sports & Fitness,18000.61,8834.15
+PROD0198,Dumbbells 33,Sports & Fitness,17698.73,11667.78
